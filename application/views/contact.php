@@ -35,7 +35,7 @@
 					<div class="col-md-6 d-flex align-items-stretch">
 						<div id="map"></div>
             <script
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBJhtyCdfQ8kYsPK603FKU7V9Gm1X4kxIg&callback=initMap&libraries=&v=weekly"
+      src=""
       async
     ></script>
 
