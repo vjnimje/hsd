@@ -85,11 +85,11 @@
         </form>
 	      <div class="collapse navbar-collapse fixed" id="ftco-nav">
 	        <ul class="navbar-nav mr-auto">
-	        	<li class="nav-item active"><a href="<?php echo base_url();?>" class="nav-link pl-0">Home</a></li>
-	        	<li class="nav-item"><a href="<?php echo base_url();?>about" class="nav-link">About Us</a></li>
-	        	<li class="nav-item"><a href="<?php echo base_url();?>products" class="nav-link">Products</a></li>
-	        	<li class="nav-item"><a href="<?php echo base_url();?>services" class="nav-link">Services</a></li>
-	          <li class="nav-item"><a href="<?php echo base_url();?>contact" class="nav-link">Contact Us</a></li>
+	        	<li class="nav-item <?php if($title == 'Home'){ echo"active";}else{ echo "";}?>"><a href="<?php echo base_url();?>" class="nav-link pl-0">Home</a></li>
+	        	<li class="nav-item <?php if($title == 'About'){ echo"active";}else{ echo "";}?>"><a href="<?php echo base_url();?>about" class="nav-link">About Us</a></li>
+	        	<li class="nav-item <?php if($title == 'Products'){ echo"active";}else{ echo "";}?>"><a href="<?php echo base_url();?>products" class="nav-link">Products</a></li>
+	        	<li class="nav-item <?php if($title == 'Services'){ echo"active";}else{ echo "";}?>"><a href="<?php echo base_url();?>services" class="nav-link">Services</a></li>
+	          <li class="nav-item <?php if($title == 'Contact Us'){ echo"active";}else{ echo "";}?>"><a href="<?php echo base_url();?>contact" class="nav-link">Contact Us</a></li>
 	        </ul>
 	      </div>
 	    </div>

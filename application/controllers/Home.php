@@ -21,7 +21,7 @@ class Home extends CI_Controller {
 	{
 		$data['title']="Products";
 		$this->load->view('include/header', $data);
-		$this->load->view('products');
+		$this->load->view('products1');
 		$this->load->view('include/footer');
 	}
 	public function services()

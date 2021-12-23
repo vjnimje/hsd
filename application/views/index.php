@@ -1,12 +1,12 @@
 
     
     <section class="home-slider owl-carousel">
-      <div class="slider-item" style="background-image:url(assets/images/bg3.png);" data-stellar-background-ratio="0.5">
+      <div class="slider-item" style="background-image:url(assets/images/bg/bg11.jpg);" data-stellar-background-ratio="0.5">
       	<div class="overlay"></div>
         <div class="container">
           <div class="row no-gutters slider-text align-items-center justify-content-end" data-scrollax-parent="true">
-          <div class="col-md-6 text ftco-animate pl-md-5">
-            <h1 class="mb-4">Engine <span>Spare Parts</span></h1>
+          <div class="col-md-12 text ftco-animate pr-md-5">
+            <h1 class="mb-4">Advance Solutions<span>To keep Mines Moving</span></h1>
             <!-- <h3 class="subheading">A small river named Duden flows by their place and supplies it with the necessary regelialia</h3> -->
             <p><a href="<?php echo base_url();?>contact" class="btn btn-secondary px-4 py-3 mt-3">Request A Quote</a></p>
           </div>
@@ -14,11 +14,11 @@
         </div>
       </div>
 
-      <div class="slider-item" style="background-image:url(assets/images/bg4.jpg);" data-stellar-background-ratio="0.5">
+      <div class="slider-item" style="background-image:url(assets/images/bg/bg12.jpg);" data-stellar-background-ratio="0.5">
       	<div class="overlay"></div>
         <div class="container">
           <div class="row no-gutters slider-text align-items-center justify-content-end" data-scrollax-parent="true">
-          <div class="col-md-6 text ftco-animate pl-md-5">
+          <div class="col-md-12 text ftco-animate pr-md-5">
             <h1 class="mb-4">SERVICING / REPAIRING <span>OF SUB ASSEMBLIES</span></h1>
             <!-- <h3 class="subheading">A small river named Duden flows by their place and supplies it with the necessary regelialia</h3> -->
             <p><a href="<?php echo base_url();?>contact" class="btn btn-secondary px-4 py-3 mt-3">Request A Quote</a></p>

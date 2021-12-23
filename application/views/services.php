@@ -1,4 +1,4 @@
-    <section class="hero-wrap hero-wrap-2" style="background-image: url('assets/images/jcb.jpg');" data-stellar-background-ratio="0.5">
+    <section class="hero-wrap hero-wrap-2" style="background-image: url('assets/images/bg/bg9.jpg');" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>
       <div class="container">
         <div class="row no-gutters slider-text align-items-center justify-content-center">
@@ -72,7 +72,10 @@
                   <li>Transmission</li>
                   <li>Hydraulic Pumps</li> 
                   <li>Valves</li> 
-                  <li>Cylinders</li>   
+                  <li>Cylinders</li>
+                  <li>Installation</li>
+                  <li>Repairing</li>
+                  <li>Annual Maintainance</li>   
                   <li>Etc...</li>
               </ul>
 						</div>
