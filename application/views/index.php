@@ -176,109 +176,76 @@
 				</div>
 			</div>
 		</section>
-
+		<div style="height: 200px;"></div>
 		<section class="ftco-section ftco-no-pt ftco-no-pb">
 			<div class="container-fluid p-0">
 				<div class="row no-gutters justify-content-center mb-5 pb-2">
           <div class="col-md-6 text-center heading-section ftco-animate">
-          	<span class="subheading">Projects</span>
-            <h2 class="mb-4">Featured Projects</h2>
-            <p>Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country</p>
+          	<span class="subheading">Products</span>
+            <h2 class="mb-4">Featured Products</h2>
           </div>
         </div>
     		<div class="row no-gutters">
     			<div class="col-md-6 col-lg-3 ftco-animate">
     				<div class="project">
-	    				<img src="assets/images/work-1.jpg" class="img-fluid" alt="Adikar Image Template">
-	    				<div class="text">
-	    					<span>Commercial</span>
-	    					<h3><a href="project.html">San Francisco Tower</a></h3>
-	    				</div>
-	    				<a href="<?php echo base_url();?>assets/images/work-1.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+	    				<img src="<?php echo base_url();?>assets/images/bearings/b1.jpg" class="img-fluid" alt="Adikar Image Template">
+	    				<a href="<?php echo base_url();?>assets/images/bearings/b1.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
 	    					<span class="icon-expand"></span>
 	    				</a>
     				</div>
     			</div>
     			<div class="col-md-6 col-lg-3 ftco-animate">
     				<div class="project">
-	    				<img src="<?php echo base_url();?>assets/images/work-2.jpg" class="img-fluid" alt="Adikar Image Template">
-	    				<div class="text">
-	    					<span>Commercial</span>
-	    					<h3><a href="project.html">San Francisco Tower</a></h3>
-	    				</div>
-	    				<a href="<?php echo base_url();?>assets/images/work-2.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+	    				<img src="<?php echo base_url();?>assets/images/bearings/b2.jpg" class="img-fluid" alt="Adikar Image Template">
+	    				<a href="<?php echo base_url();?>assets/images/bearings/b2.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
 	    					<span class="icon-expand"></span>
 	    				</a>
     				</div>
     			</div>
     			<div class="col-md-6 col-lg-3 ftco-animate">
     				<div class="project">
-	    				<img src="<?php echo base_url();?>assets/images/work-3.jpg" class="img-fluid" alt="Adikar Image Template">
-	    				<div class="text">
-	    					<span>Commercial</span>
-	    					<h3><a href="project.html">San Francisco Tower</a></h3>
-	    				</div>
-	    				<a href="<?php echo base_url();?>assets/images/work-3.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+	    				<img src="<?php echo base_url();?>assets/images/bearings/b3.jpg" class="img-fluid" alt="Adikar Image Template">
+	    				<a href="<?php echo base_url();?>assets/images/bearings/b3.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
 	    					<span class="icon-expand"></span>
 	    				</a>
     				</div>
     			</div>
     			<div class="col-md-6 col-lg-3 ftco-animate">
     				<div class="project">
-	    				<img src="<?php echo base_url();?>assets/images/work-4.jpg" class="img-fluid" alt="Adikar Image Template">
-	    				<div class="text">
-	    					<span>Commercial</span>
-	    					<h3><a href="project.html">San Francisco Tower</a></h3>
-	    				</div>
-	    				<a href="<?php echo base_url();?>assets/images/work-4.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+	    				<img src="<?php echo base_url();?>assets/images/bearings/b4.jpg" class="img-fluid" alt="Adikar Image Template">
+	    				<a href="<?php echo base_url();?>assets/images/bearings/b4.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
 	    					<span class="icon-expand"></span>
 	    				</a>
     				</div>
     			</div>
     			<div class="col-md-6 col-lg-3 ftco-animate">
     				<div class="project">
-	    				<img src="<?php echo base_url();?>assets/images/work-5.jpg" class="img-fluid" alt="Adikar Image Template">
-	    				<div class="text">
-	    					<span>Commercial</span>
-	    					<h3><a href="project.html">San Francisco Tower</a></h3>
-	    				</div>
-	    				<a href="<?php echo base_url();?>assets/images/work-5.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+	    				<img src="<?php echo base_url();?>assets/images/oil/o1.jpg" class="img-fluid" alt="Adikar Image Template">
+	    				<a href="<?php echo base_url();?>assets/images/oil/o1.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
 	    					<span class="icon-expand"></span>
 	    				</a>
     				</div>
     			</div>
     			<div class="col-md-6 col-lg-3 ftco-animate">
     				<div class="project">
-	    				<img src="<?php echo base_url();?>assets/images/work-6.jpg" class="img-fluid" alt="Adikar Image Template">
-	    				<div class="text">
-	    					<span>Resedencial</span>
-	    					<h3><a href="project.html">Rose Villa House</a></h3>
-	    				</div>
-	    				<a href="<?php echo base_url();?>assets/images/work-6.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+	    				<img src="<?php echo base_url();?>assets/images/oil/o2.jpg" class="img-fluid" alt="Adikar Image Template">
+	    				<a href="<?php echo base_url();?>assets/images/oil/o2.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
 	    					<span class="icon-expand"></span>
 	    				</a>
     				</div>
     			</div>
     			<div class="col-md-6 col-lg-3 ftco-animate">
     				<div class="project">
-	    				<img src="<?php echo base_url();?>assets/images/work-7.jpg" class="img-fluid" alt="Adikar Image Template">
-	    				<div class="text">
-	    					<span>Commercial</span>
-	    					<h3><a href="project.html">San Francisco Tower</a></h3>
-	    				</div>
-	    				<a href="<?php echo base_url();?>assets/images/work-7.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+	    				<img src="<?php echo base_url();?>assets/images/oil/o4.jpg" class="img-fluid" alt="Adikar Image Template">
+	    				<a href="<?php echo base_url();?>assets/images/oil/o4.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
 	    					<span class="icon-expand"></span>
 	    				</a>
     				</div>
     			</div>
     			<div class="col-md-6 col-lg-3 ftco-animate">
     				<div class="project">
-	    				<img src="<?php echo base_url();?>assets/images/work-8.jpg" class="img-fluid" alt="Adikar Image Template">
-	    				<div class="text">
-	    					<span>Commercial</span>
-	    					<h3><a href="project.html">San Francisco Tower</a></h3>
-	    				</div>
-	    				<a href="<?php echo base_url();?>assets/images/work-8.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+	    				<img src="<?php echo base_url();?>assets/images/oil/o5.jpg" class="img-fluid" alt="Adikar Image Template">
+	    				<a href="<?php echo base_url();?>assets/images/oil/o5.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
 	    					<span class="icon-expand"></span>
 	    				</a>
     				</div>
