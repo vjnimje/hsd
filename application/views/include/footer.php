@@ -103,7 +103,7 @@
             	<h2 class="ftco-heading-2">Contact Us</h2>
             <!--  -->
               <ul class="list-unstyled">
-                <li><a href="#"><span class="icon ion-md-pin icon2"></span><span style="position:absolute; color:rgba(255, 255, 255, 0.7);">Ward No.-1, Sidharth Nagar Budhi, Balaghat-481001(M.P.)</span></a></li><br>
+                <li><a href="#"><span class="icon ion-md-pin icon2"></span><span style="position:absolute; color:rgba(255, 255, 255, 0.7);">Nirmal Kripa Building, Shop No.2, Banjari Tola Main Road, Ward No.9, Malanjkhand, Tehsil- Birsa, District Balaghat-481116</span></a></li><br><br>
                 <li><a href="tel:+91 900 999 4878"><span class="icon ion-md-call icon2"></span>+91 900 999 4878</a></li>
                 <li><a href="tel:+91 815 890 4858"><span class="icon ion-md-calculator icon2"></span>+91 815 890 4858</a></li>
                 <li><a href="mailto:hsdengineeringco@gmail.com"><span class="icon ion-md-mail icon2"></span>hsdengineeringco@gmail.com</a></li>
@@ -116,7 +116,7 @@
         <div class="row">
           <div class="col-md-6">
 
-            <p>Copyright &copy;<script>document.write(new Date().getFullYear());</script> HSD Engineering Co. | <a href="https://adikar.com" target="_blank">Adikar Infomatrix</a>
+            <p>Copyright &copy;<script>document.write(new Date().getFullYear());</script> HSD Engineering Co.
           </div>
           <div class="col-md-6">
             <ul class="ftmenu">

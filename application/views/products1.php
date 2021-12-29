@@ -210,27 +210,146 @@
             </div>
 					</div>
 				</div>
-<!-- 				<div class="row no-gutters">
-					<div class="col-md-7 wrap-about py-5 px-4 px-md-5 ftco-animate">
-	          <div class="heading-section mb-5">
-	            <h2 class="mb-4">Mission</h2>
-	          </div>
-	          <div class="">
-							<p align="justify">To be the largest one-stop centre for heavy machinery parts and diesel engine spares, making progress possible for diverse industries around the world.</p>
-						</div>
-						<div class="heading-section mb-5">
-	            <h2 class="mb-4">Vission</h2>
-	          </div>
-	          <div class="">
-							<p align="justify">We are guided by our Founder's core principals of business integrity, reliability, product quality and customer service.</p>
-						</div>
-					</div>
-					<div class="col-md-5 p-md-5 img img-2 mt-5 mt-md-0" style="background-image: url(assets/images/bg2.jpeg);">
-					</div>
-				</div> -->
 			</div>
 		</section>
 		
-		
+		<section class="ftco-section">
+      <div class="container">
+        <div class="row no-gutters">
+          <div class="col-md-12 wrap-about py-5 px-4 px-md-5 ftco-animate">
+            <div class="heading-section mb-5">
+              <h2 class="mb-4">Mining Machine Oils & Lubricant</h2>
+              <p align="justify">Long-lasting, advanced-technology Mobil™ lubricants are designed to help:</p>
+                <ul>
+                  <li>Ensure the reliability of your equipment and lower maintenance costs</li>
+                  <li>Reduce used oil generation — a crucial environmental consideration</li>
+                  <li>Minimize maintenance and its associated employee safety risks</li>
+                </ul>
+                <p align="justify">These outstanding products can help deliver many unique advantages and benefits to your mining operation — including those featured below.*</p>
+
+            </div>
+            <div class="table-secondary table-responsive" style="padding:10px;">
+              <h5>Our range of Mining Machine Oils & Lubricants includes :</h5>
+              <table class="table">
+                <tr style="background-color: #1683fb !important; color:#fff;">
+                  <td>Application</td>
+                  <td>Product</td>
+                  <td>Features and benefits</td>
+                </tr>
+                <tr>
+                  <td colspan="3" style="color:#1683fb !important; font-weight: 700;">Material processing equipment</td>
+                </tr>
+                <tr>
+                  <td>Gears and circulating systems</td>
+                  <td><b>Mobil SHC™ 600 Series<br>Mobil SHC™ Gear Series</b></td>
+                  <td>
+                    <ul>
+                      <li>Long fluid life helps lead to reduce oil consumption and disposal</li>
+                      <li>Potentially reduces power consumption up to 3.6 percent</li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Air compressors</td>
+                  <td><b>Mobil SHC™ Rarus Series</b></td>
+                  <td>
+                    <ul>
+                      <li>Long fluid life helps lead to reduce oil consumption and disposal</li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Electric motor bearings</td>
+                  <td><b>Mobil Polyrex™ EM</b></td>
+                  <td>
+                    <ul>
+                      <li>Excellent grease protection for long bearing life</li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <td colspan="3" style="color:#1683fb !important; font-weight: 700;">Mobile equipment</td>
+                </tr>
+                <tr>
+                  <td>OHV drive applications</td>
+                  <td><b>Mobil SHC™ Gear OH Series</b></td>
+                  <td>
+                    <ul>
+                      <li>Superb wear protection helps maximize component life</li>
+                      <li>Exceptional low-temperature fluidity for easy cold startup</li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Open gears</td>
+                  <td><b>Mobil Dynagear™ Series</b></td>
+                  <td>
+                    <ul>
+                      <li>Excellent gear protection helps extend equipment life, which can lower maintenance costs</li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Variety of heavy-duty applications</td>
+                  <td><b>Mobilgrease XHP™ Mine Series<br>Mobilgrease XHP™ 462 Moly</b></td>
+                  <td>
+                    <ul>
+                      <li>Moly-containing, long grease life, which can help reduce consumption and disposal</li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Diesel engines</td>
+                  <td><b>Mobil Delvac™ 1<br>Mobil Delvac™ MX<br>Mobil Delvac™ ESP  </b></td>
+                  <td>
+                    <ul>
+                      <li>Engine efficiency, long engine life in severe off-highway applications</li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Transmissions and drivetrains</td>
+                  <td><b> Mobiltrans™ AST<br>Mobil Delvac™ Synthetic ATF </b></td>
+                  <td>
+                    <ul>
+                      <li> Outstanding fluidity and pumpability, helps lead to quicker starts and reduced wear</li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Gears and axles</td>
+                  <td><b>Mobilube™ HD<br>Mobilube™ XFD 60</b></td>
+                  <td>
+                    <ul>
+                      <li>Excellent load and shock capability, helping reduce premature failures</li>
+                      <li>Wide operating range</li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Hydraulic systems</td>
+                  <td><b> Mobil DTE 10 Excel™ Series<br>Mobil DTE™ 20 Series </b></td>
+                  <td>
+                    <ul>
+                      <li>Energy efficiency benefits§ (Mobil DTE 10 Excel)</li>
+                      <li>Keep-clean performance</li>
+                    </ul>
+                  </td>
+                </tr>
+              </table>
+            </div>
+            <div>
+              <br>
+              <h6>Note*-</h6>
+              <p align="justify"> *Since equipment and operating conditions vary, please refer to the equipment builder manual for preferred lubrication recommendations.<br>
+              †For Mobil SHC™ 600, energy efficiency relates solely to the fluid performance when compared with conventional reference oils of the same viscosity grade in circulating and gear applications. The technology used allowsup to 3.6 percent efficiency compared with the reference when tested in a worm gearbox under controlled conditions. Efficiency improvements will vary based on operating conditions and applications.<br>
+              ‡For Mobil SHC™ Gear, energy efficiency relates solely to the fluid performance when compared with conventional (mineral) reference oils of the same viscosity grade in gear applications. The technology used allows up to 3.6 percent efficiency compared to the reference when tested in a worm gearbox under controlled conditions. Efficiency improvements will vary based on operating conditions and applications.<br>
+              §For Mobil DTE 10 Excel™, energy efficiency relates solely to the fluid performance when compared with ExxonMobil’s standard hydraulic fluids. The technology used allows up to 6 percent increase in hydraulic pump efficiency compared with Mobil DTE™ 20 Series when tested in standard hydraulic applications. The energy efficiency claim for this product is based on test results on the use of the fluid conducted in accordance with all applicable industry standards and protocols.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    
 
 		

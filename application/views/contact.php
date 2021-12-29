@@ -34,11 +34,7 @@
 					</div>
 					<div class="col-md-6 d-flex align-items-stretch">
 						<div id="map"></div>
-            <script
-      src=""
-      async
-    ></script>
-
+            <script src="" async></script>
 					</div>
 				</div>
 			</div>
@@ -53,7 +49,7 @@
           <div class="w-100"></div>
           <div class="col-md-3 d-flex">
           	<div class="bg-light d-flex align-self-stretch box p-4">
-	            <p><span>Address:</span><br> Ward No.-1, Sidharth Nagar Budhi, Balaghat-481001(M.P.)</p>
+	            <p><span>Address:</span><br>Nirmal Kripa Building, Shop No.2, Banjari Tola Main Road, Ward No.9, Malanjkhand, Tehsil- Birsa, District Balaghat-481116</p>
 	          </div>
           </div>
           <div class="col-md-3 d-flex">

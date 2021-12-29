@@ -84,7 +84,7 @@
 			</div>
 		</section>
 
-    <section class="ftco-section testimony-section ftco-no-pt">
+<!--     <section class="ftco-section testimony-section ftco-no-pt">
       <div class="container">
         <div class="row ftco-animate">
         	<div class="col-md-6 col-lg-6 col-xl-4">
@@ -204,7 +204,7 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
 		
 		
 

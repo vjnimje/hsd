@@ -164,7 +164,7 @@
 		</section>
 		
 		
-		<section class="ftco-intro" style="background-image: url(assets/images/jcb2.jpg);" data-stellar-background-ratio="0.5">
+		<section class="ftco-intro" style="background-image: url(assets/images/bg/oilbg.jpg);" data-stellar-background-ratio="0.5">
 			<div class="overlay"></div>
 			<div class="container">
 				<div class="row justify-content-center">
@@ -333,7 +333,7 @@
     	</div>
     </section>
 
-    <section class="ftco-section testimony-section">
+<!--     <section class="ftco-section testimony-section">
       <div class="container">
         <div class="row ftco-animate">
         	<div class="col-md-6 col-lg-6 col-xl-4">
@@ -453,4 +453,4 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
